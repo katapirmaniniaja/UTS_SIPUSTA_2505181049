@@ -1,0 +1,10 @@
+--- DAFTAR KOLEKSI PERPUSTAKAAN ---
+=========================================================================
+KODE       | JUDUL                          | LAYAK PINJAM   
+=========================================================================
+MJ-002     | Info Teknologi Edisi 87        | true           
+BK-001     | Java How to Program            | true           
+BD-002     | Jurnal Rekayasa Perangkat      | true           
+BD-001     | Panduan Pemrograman Java       | true           
+BK-002     | Basis Data Relasional          | false          
+MJ-001     | Info Teknologi Edisi 88        | false          

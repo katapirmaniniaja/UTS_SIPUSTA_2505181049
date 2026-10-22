@@ -1,0 +1,11 @@
+--- DAFTAR KOLEKSI PERPUSTAKAAN ---
+=========================================================================
+KODE       | JUDUL                          | LAYAK PINJAM   
+=========================================================================
+MJ-002     | Info Teknologi Edisi 87        | true           
+BD-002     | Jurnal Rekayasa Perangkat      | true           
+BD-001     | Panduan Pemrograman Java       | true           
+BK-003     | PBO 2                          | true           
+BK-001     | Pemrograman Web                | true           
+BK-002     | Basis Data Relasional          | false          
+MJ-001     | Info Teknologi Edisi 88        | false          
