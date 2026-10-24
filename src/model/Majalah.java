@@ -27,12 +27,12 @@ public class Majalah extends Koleksi implements Terarsip {
 
     // Kontrak fisik dari interface Terarsip
     @Override
-    public String getNomorRak() {
+    public String getnomorRak() {
         return nomorRak; 
     }
 
     @Override
-    public String getLokasiLantai() {
+    public String getlokasiLantai() {
         return "Lantai 2"; 
     }
 

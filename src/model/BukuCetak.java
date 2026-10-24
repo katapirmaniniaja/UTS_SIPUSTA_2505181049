@@ -26,12 +26,12 @@ public class BukuCetak extends Koleksi implements Terarsip {
 
     // Mengisi kontrak dari interface Terarsip
     @Override
-    public String getNomorRak() {
+    public String getnomorRak() {
         return nomorRak; 
     }
 
     @Override
-    public String getLokasiLantai() {
+    public String getlokasiLantai() {
         return "Lantai : 1 "; 
     }
 

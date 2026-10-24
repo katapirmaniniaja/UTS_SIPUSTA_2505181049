@@ -10,7 +10,7 @@ public class Main {
       
         KatalogPerpustakaan katalog = new KatalogPerpustakaan();
 
-        BukuCetak bk1 = new BukuCetak("BK-001", "Pemrograman Web", 2022, 620, "rak A-12", false);
+        BukuCetak bk1 = new BukuCetak("BK-001", "Java How To Program", 2022, 620, "rak A-12", false);
         BukuCetak bk2 = new BukuCetak("BK-002", "Basis Data Relasional", 2021, 410, "rak B-04", true);
         BukuCetak bk3 = new BukuCetak("BK-003", "PBO 2", 2025, 450, "rak C-03", false);
 
